@@ -805,6 +805,10 @@
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .contact-section {
+    padding: 2.5rem 2rem;
+  }
+
   .header {
     flex-direction: column;
     gap: 2rem;
@@ -820,6 +824,30 @@
 @media (max-width: 768px) {
   .header {
     padding: 1.5rem 2rem;
+  }
+
+  .contact-section {
+    padding: 2rem 1.5rem;
+  }
+
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-card {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .contact-actions {
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .contact-inline {
+    flex-wrap: wrap;
+    gap: 0.35rem;
   }
 
   .main-content {
@@ -902,6 +930,23 @@
   .header-left {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .contact-section {
+    padding: 1.5rem 1.25rem;
+  }
+
+  .contact-title {
+    font-size: 1.4rem;
+  }
+
+  .contact-card {
+    padding: 1.25rem;
+  }
+
+  .contact-button {
+    width: 100%;
+    justify-content: center;
   }
 
   .category-buttons {
