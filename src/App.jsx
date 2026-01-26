@@ -74,7 +74,7 @@ const products = [
     price: '10,000 RWF',
     description: 'We craft sharp, memorable business cards fast designed to leave a lasting impression every time you make a connection.',
     status: 'Fast & Local',
-    image: '/images/business-cards.jpeg'
+    image: '/images/Business-Cards.jpeg'
   },
   {
     id: 111,
@@ -83,7 +83,7 @@ const products = [
     price: '20,000 RWF',
     description: 'We design bold, persuasive flyers fast perfect for promotions, launches, and events, getting your message into hands and minds in seconds',
     status: 'Fast & Local',
-    image: '/images/flyers.jpg'
+    image: '/images/Flyers.jpg'
   },
   {
     id: 112,
@@ -92,7 +92,7 @@ const products = [
     price: '20,000 RWF',
     description: 'We create striking posters fast designed to stop people in their tracks, amplify your message, and make every wall work for your brand.',
     status: 'Fast & Local',
-    image: '/images/posters.jpg'
+    image: '/images/Posters.jpg'
   },
   {
     id: 113,
@@ -101,7 +101,7 @@ const products = [
     price: '20,000 RWF',
     description: 'We design elegant, unforgettable invitation cards fast setting the perfect tone for your event before guests even arrive.',
     status: 'Fast & Local',
-    image: '/images/invitation-cards.jpg'
+    image: '/images/Invitation-Cards.jpg'
   },
   {
     id: 114,
@@ -110,7 +110,7 @@ const products = [
     price: '20,000 RWF',
     description: 'We design dignified, professional certificates fast crafted to honor achievement with a polished, prestigious look that’s worthy of every milestone.',
     status: 'Fast & Local',
-    image: '/images/certificates.jpg'
+    image: '/images/Certificates.jpg'
   },
   {
     id: 201,
@@ -119,7 +119,7 @@ const products = [
     price: '100 RWF',
     description: 'We design compact, high-impact A6 flyers fast perfect for handouts and pocket‑sized promos that keep your brand on the move.',
     status: 'Fast & Local',
-    image: '/images/flyers-a6.png'
+    image: '/images/Flyers-A6.png'
   },
   {
     id: 202,
@@ -128,7 +128,7 @@ const products = [
     price: '250 RWF',
     description: 'BWe design versatile, high-impact A5 flyers fast ideal for detailed promos, menus, and event highlights that stand out in every hand.',
     status: 'Fast & Local',
-    image: '/images/flyers-a5.jpg'
+    image: '/images/Flyers-A5.jpg'
   },
   {
     id: 203,
@@ -137,7 +137,7 @@ const products = [
     price: '20,000 RWF',
     description: 'We create polished A4 company profiles fast—print‑ready, professional documents that present your business with clarity, credibility, and style.',
     status: 'Fast & Local',
-    image: '/images/company-profile-a4.jpg'
+    image: '/images/Company-Profile-A4.jpg'
   },
   {
     id: 204,
@@ -146,7 +146,7 @@ const products = [
     price: '15,000 RWF',
     description: 'We create compact A5 company profiles fast professionally designed, easy to carry, and perfect for powerful brand presentations on the go.',
     status: 'Fast & Local',
-    image: '/images/company-profile-a5.jpg'
+    image: '/images/Company-Profile-A5.jpg'
   },
   {
     id: 205,
@@ -155,7 +155,7 @@ const products = [
     price: '1,000 RWF',
     description: 'We design spacious, polished A4 brochures fast giving your story, products, and visuals room to truly shine.',
     status: 'Fast & Local',
-    image: '/images/brochures-a4.jpg'
+    image: '/images/Brochures-A4.jpg'
   },
   {
     id: 206,
@@ -164,7 +164,7 @@ const products = [
     price: '1,500 RWF',
     description: 'We design expansive A3 brochures fast perfect for big visuals, bold storytelling, and layouts that demand attention at first glance.',
     status: 'Fast & Local',
-    image: '/images/brochures-a3.jpg'
+    image: '/images/Brochures-A3.jpg'
   },
   {
     id: 207,
