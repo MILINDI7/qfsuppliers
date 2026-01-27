@@ -1589,6 +1589,22 @@ function App() {
               </div>
             </div>
             <div className="spec-modal-footer">
+              <div className="spec-contact-actions">
+                <a 
+                  className="spec-contact-button email" 
+                  href={`mailto:muhizimurekatetequeen@gmail.com?subject=Inquiry about ${selectedProduct.name}&body=Hi, I'm interested in learning more about ${selectedProduct.name} (${selectedProduct.category}) - ${selectedProduct.price}. Please provide more details.`}
+                >
+                  📧 Email Inquiry
+                </a>
+                <a 
+                  className="spec-contact-button whatsapp" 
+                  href={`https://wa.me/250788737390?text=Hi, I'm interested in ${encodeURIComponent(selectedProduct.name)} (${encodeURIComponent(selectedProduct.category)}) - ${encodeURIComponent(selectedProduct.price)}. Can you provide more details?`}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  💬 WhatsApp Inquiry
+                </a>
+              </div>
               <button className="spec-modal-button" onClick={closeSpecSheet}>
                 Close
               </button>
